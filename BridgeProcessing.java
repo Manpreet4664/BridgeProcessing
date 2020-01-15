@@ -11,8 +11,8 @@ import java.util.Map;
 
 public class BridgeProcessing {
 
-	public static final String BRIDGE_FDB_FILE = "C:/Manpreet_Singh/MACS/3_Term/Networks and Commmunications/A3/BridgeFDB.txt";
-	public static final String RANDOM_FRAMES_FILE = "C:/Manpreet_Singh/MACS/3_Term/Networks and Commmunications/A3/RandomFrames.txt";
+	public static final String BRIDGE_FDB_FILE = "BridgeFDB.txt";
+	public static final String RANDOM_FRAMES_FILE = "RandomFrames.txt";
 
 	private static HashMap<String, String> bridgeMap = new HashMap<>();
 	private static HashMap<String, String[]> randomFrameMap = new HashMap<>();
